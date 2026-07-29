@@ -1,0 +1,3 @@
+import FermatLittleTheoremCanonicalLaneLean.Basic
+import FermatLittleTheoremCanonicalLaneLean.GateLemmas
+import FermatLittleTheoremCanonicalLaneLean.FinalTheorem
